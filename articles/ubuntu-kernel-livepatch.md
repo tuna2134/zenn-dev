@@ -27,8 +27,6 @@ Livepatchはその名の通り、Ubuntu(Linux系のos)でkernelパッチがリ�
 
 Free for personal useの下にあるregisterと書かれたボタンをクリックします。
 
-![Image1](/images/articles/livepatch/1.webp)
-
 ### 3. 登録もしくはログインする
 
 Please type your email:の下にに自分のメールアドレスを入れてください。
@@ -37,13 +35,9 @@ Ubuntuアカウントを持っていない方はI don’t have an Ubuntu One acc
 
 そのあとPasswordと書かれているところにパスワードを書いてください。
 
-![images](/images/articles/livepatch/2.webp)
-
 ### 4. トークンを取得
 
 Tokenと書かれているところをコピーしてください。
-
-![images](/images/articles/livepatch/3.webp)
 
 ### 5. 設定
 
