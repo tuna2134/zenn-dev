@@ -4,7 +4,6 @@ emoji: "🔨"
 type: "tech"
 topics: ["ubuntu"]
 published: true
-publication_name: "rext"
 ---
 
 # Livepatchを導入してみた
