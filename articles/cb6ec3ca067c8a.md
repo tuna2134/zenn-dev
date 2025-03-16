@@ -3,7 +3,7 @@ title: "EtherIP(RFC3378)をRustで実装した話ってよ"
 emoji: "🙌"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["rust"]
-published: false
+published: true
 ---
 
 こんにちは、自称インチキ高校生のtuna2134です。
