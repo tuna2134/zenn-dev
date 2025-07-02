@@ -1,0 +1,9 @@
+title: "AS番号入門"
+summary: "インターネットでよく聞くグローバルIPアドレス、AS番号についてルーターを作りながら、やっていきましょう"
+topics: ["bgp"]
+published: false
+price: 0 # 有料の場合200〜5000
+# 本に含めるチャプターを順番に並べましょう
+chapters:
+  - first
+  - example2
