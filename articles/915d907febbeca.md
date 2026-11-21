@@ -3,7 +3,7 @@ title: "おうちk8sでグローバルIP"
 emoji: "💬"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["bgp", "kubernetes", "frrouting", "wireguard"]
-published: false
+published: true
 publication_name: neody
 ---
 ## 1. はじめに
