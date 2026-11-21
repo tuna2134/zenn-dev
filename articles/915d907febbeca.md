@@ -201,7 +201,23 @@ VPS側で以下のコマンドを実行してください。
 sudo vtysh -c "sh ip bgp"
 ```
 
-そうすると、以下のが出るので、そこに自分の追加されているIPがあるか確認してください。もしもあれば、それで終わりです。
+そうすると、以下の出力結果が出るので、そこに自分の追加されているIPがあるか確認してください。もしもあれば、それで終わりです。
+
+```
+BGP table version is 5, local router ID is 100.64.0.1, vrf id 0
+Default local pref 100, local AS 65000
+Status codes:  s suppressed, d damped, h history, u unsorted, * valid, > best, = multipath,
+               i internal, r RIB-failure, S Stale, R Removed
+Nexthop codes: @NNN nexthop's vrf id, < announce-nh-self
+Origin codes:  i - IGP, e - EGP, ? - incomplete
+RPKI validation codes: V valid, I invalid, N Not found
+
+     Network          Next Hop            Metric LocPrf Weight Path
+ *>  <Additional IP>/32
+                    100.64.1.2               0             0 65001 i
+
+Displayed 1 routes and 1 total paths
+```
 
 ## 6. 最後に
 ここまで読んでくださり、ありがとうございました。
