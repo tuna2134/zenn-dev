@@ -182,7 +182,7 @@ metadata:
 
 MetalLBのIPのプール：
 ```yaml
-apiVersion: metallb.io/v1beta1！！！ｗ。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。!!!
+apiVersion: metallb.io/v1beta1
 kind: IPAddressPool
 metadata:
   name: first-pool
